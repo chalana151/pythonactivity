@@ -1,0 +1,6 @@
+a=input("first number:")
+b=input("secomd number:")
+res=int(a)+ int(b)
+print(res)
+mul=float(a)* float(b)
+print(mul)
